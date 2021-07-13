@@ -22,12 +22,12 @@
     "Services": [{
             "icon": "fa fa-rocket",
             "name": "Hackathon",
-            "text": "Post and participate hackathons"
+            "text": "Master in organising hackathons"
         },
         {
             "icon": "fa fa-briefcase",
             "name": "Get the right Job",
-            "text": "Find the right job for you."
+            "text": "Easy to find the right job for you."
         },
         {
             "icon": "fa fa-angellist",
@@ -47,7 +47,7 @@
         {
             "icon": "fa fa-pie-chart",
             "name": "Are u a corporate?",
-            "text": "Manage your candidates with an easy interface."
+            "text": "Get the best candidate with our personalized model"
         }
 
 
@@ -89,12 +89,12 @@
         }
     ],
     "Contact": {
-        "address": "Model Town, Bareilly, Uttar Pradesh ",
-        "phone": "+91 9123456789",
-        "email": "info@wuelev8.tech",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "30-B Model Town, Bareilly, Uttar Pradesh ",
+        "phone": "+91 9695173794",
+        "email": "connect@internity.in",
+        "facebook": "https://www.facebook.com/internitylearning/",
+        "linkedin": "https://www.linkedin.com/company/13255839",
+        "instagram": "https://www.instagram.com/internity_learn"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
