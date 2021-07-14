@@ -57,6 +57,8 @@ export const Contact = props => {
                   <span>
                     <i className='fa fa-map-marker'></i> Address
                   </span>
+                  {props.data ? props.data.companyname : "loading"}
+                  <br />
                   {props.data ? props.data.address : "loading"}
                 </p>
               </div>
@@ -65,7 +67,8 @@ export const Contact = props => {
                   <span>
                     <i className='fa fa-phone'></i> Phone
                   </span>{" "}
-                  {props.data ? props.data.phone : "loading"}
+                  {props.data ? props.data.phone1 : "loading"} <br />
+                  {props.data ? props.data.phone2 : "loading"}
                 </p>
               </div>
             </div>

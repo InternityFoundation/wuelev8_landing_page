@@ -89,9 +89,11 @@
         }
     ],
     "Contact": {
+        "companyname":"Internity Education Services LLP",
         "address": "30-B Model Town, Bareilly, Uttar Pradesh ",
-        "phone": "+91 9695173794",
-        "email": "connect@internity.in",
+        "phone1": "+91-9458705493",
+        "phone2": "+91-9695173794",
+        "email": "connect@wuelev8.tech",
         "facebook": "https://www.facebook.com/internitylearning/",
         "linkedin": "https://www.linkedin.com/company/13255839",
         "instagram": "https://www.instagram.com/internity_learn"
