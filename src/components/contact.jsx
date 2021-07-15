@@ -87,11 +87,6 @@ export const Contact = props => {
                       <i className='fa fa-linkedin'></i>
                     </a>
                   </li>
-                  <li>
-                    <a href={props.data ? props.data.instagram : "/"}>
-                      <i className='fa fa-instagram'></i>
-                    </a>
-                  </li>
                 </ul>
               </div>
             </div>
